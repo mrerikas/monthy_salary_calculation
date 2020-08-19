@@ -1,0 +1,30 @@
+Taip kaip man patinka kurti, del to paruosiau projekta su Klasem, kaip jos funkcionuoja.
+Tap pat, kaip mes galime pasiekti ar gauti norima informacija.
+Siame projekte noriu parodyti, kad suprantu kaip veikia klases ir ju paveldejimai.
+
+UZDUOTIS:
+Dirbu imoneje, kurioje nespeja laiku pervesti atlyginimu. Musu buhalteris nespeja.
+Erikai ar galetum sukurti kazkokia sistema, kad greiciau skaiciuotumeme kiekvieno atlyginimus ?
+
+# 1. Employee's name - V
+# 2. Employee's role - V
+# 3. Employee's pay per hour - V
+# 4. Employee's total worked hours - V
+# 5. Employee's monthly salary - V
+
+
+Sukurdamas klase, galesiu pasiekti sias informacijas:
+
+1. Employee's name
+2. Employee's role
+3. Employee's pay per hour -> "Taip pat naudosiu moduli datetime() VIETOJE matematiniu skaiciavimu"
+4. Employee's total worked hours -> si informacija bus irasyta "dictionary: ('tuple' 'tuple')"
+5. Employee's overtime hours
+5. Mano tikslas = Apskaiciuoti kiekvieno darbuotojo, monthly salary ir prideti bonusa nuo isdirbtu virsvalandziu(overtime).
+6. EXTRA, ikelti info i dictionary.
+
+Idesime sias profesijas i kintamuosius su valandiniais atlyginimais:
+
+1. sales_manager_hourly_pay
+2. team_lead_hourly_pay
+3. customer_service_hourly_pay
